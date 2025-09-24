@@ -1,0 +1,16 @@
+name: quant_project        # name of the environment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - scipy
+  - jupyterlab
+  - seaborn
+  - pip
+  - pip:
+      - yfinance
