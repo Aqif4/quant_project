@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "quant_project",
+  "python.languageServer": "Pylance",
+  "python.terminal.activateEnvironment": true,
+  "python.analysis.typeCheckingMode": "standard"
+}
